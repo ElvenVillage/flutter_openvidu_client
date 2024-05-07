@@ -12,3 +12,5 @@ export 'src/models/participant.dart';
 export 'src/models/remote_participant.dart';
 export 'src/models/stream_mode.dart';
 export 'src/models/video_params.dart';
+
+export 'src/models/session.dart';
